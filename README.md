@@ -1,6 +1,6 @@
 # Marketplace Dashboard
 
-![Marketplace Dashboard]([path/to/your/image.png](https://i.postimg.cc/dVvD52yT/Market-Mockup.png))
+![Marketplace Dashboard]([./Market-Mockup.png])
 
 ## Overview
 
