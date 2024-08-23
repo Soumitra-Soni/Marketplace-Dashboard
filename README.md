@@ -1,6 +1,6 @@
 # Marketplace Dashboard
 
-![Marketplace Dashboard]([./Market-Mockup.png])
+![Marketplace Dashboard](https://github.com/Soumitra-Soni/Marketplace-Dashboard/blob/f95572bffdddb11e2671c8b790073f9ccf183f9a/Market-Mockup.png)
 
 ## Overview
 
